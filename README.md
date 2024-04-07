@@ -21,11 +21,6 @@ The purpose of this project is to analyze the pattern of client consumptions and
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Download the necessary libraries to run this code. (See setup.md)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
 ## Members
 
 [Tao Yu Cheng](https://github.com/retirementt)
